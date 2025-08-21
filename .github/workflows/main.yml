@@ -1,0 +1,11 @@
+name: Ola mundi
+on: [push]
+jobs:
+  dizer-ola: 
+    runs-on: ubuntu-latest
+    steps:
+      - name: imprime uma mensagem no console
+      run: echo "Ola mundo, Esta pe minha oriermaingiugiaji"
+
+      - name: Imprime outra mensagem
+      run: echo "ijieuahguih"
