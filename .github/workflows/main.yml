@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: imprime uma mensagem no console
-      run: echo "Ola mundo, Esta pe minha oriermaingiugiaji"
+        run: echo "Ola mundo, Esta pe minha oriermaingiugiaji"
 
       - name: Imprime outra mensagem
-      run: echo "ijieuahguih"
+        run: echo "ijieuahguih"
